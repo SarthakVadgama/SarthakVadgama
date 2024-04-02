@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Vadgama</h1>
 <h3 align="center">Full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **DotNet Core 8, MS-SQL, Spline**
+- 🌱 I’m currently learning **DotNet Core 8, MS-SQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fs.vercel.app/](https://portfolio-fs.vercel.app/)
 
