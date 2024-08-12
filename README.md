@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fs.vercel.app/](https://portfolio-fs.vercel.app/)
 
-- 💬 Ask me about **ReactJS, Vanilla Javascript, Angular 17, Typescript, UI/UX, MERN**
+- 💬 Ask me about **ReactJS, Vanilla Javascript, Angular 17+, Typescript, UI/UX, MERN**
 
 - 📫 How to reach me **vadgamasarthak@gmail.com**
 
